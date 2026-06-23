@@ -1,0 +1,4 @@
+logging:
+  level:
+    com.jcquevedo.payments: DEBUG
+    org.hibernate.SQL: INFO
